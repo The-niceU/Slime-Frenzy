@@ -256,7 +256,7 @@ A: 存档文件位于 `data/saves/` 文件夹下。
 
 ---
 
-## 📸 截图 & 演示
+## 📸 截图
 <img src = "/preview1.png" alt = "游戏开始界面" width="400">
 
 ---
