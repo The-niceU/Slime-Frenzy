@@ -199,13 +199,13 @@ A: 存档文件位于 `data/saves/` 文件夹下。
 
 ### 提交问题
 
-遇到 Bug 或有功能建议？欢迎提交 [Issue](https://github.com/your-username/your-repo/issues)！
+遇到 Bug 或有功能建议？欢迎提交 [Issue](https://github.com/The-niceU/Slime-Frenzy/issues)！
 
 ---
 
 ## 📚 详细文档
 
-- 📖 [完整游戏说明](./README.md)
+- 📖 [完整游戏说明](./Supplement.md)
 - 📋 [游戏规则与数据](./data/docs/SpecificStats.txt)
 - 📝 [更新日志](./data/docs/Changelog.txt)
 
@@ -243,10 +243,10 @@ A: 存档文件位于 `data/saves/` 文件夹下。
 
 ## 👨‍💻 开发者
 
-👤 **Your Name**
+👤 **Winyee**
 
-- GitHub: [@your-username](https://github.com/your-username)
-- Email: your-email@example.com
+- GitHub: [@The-niceU](https://github.com/The-niceU)
+- Email: wei_yi@stu.scu.edu.cn
 
 ---
 
