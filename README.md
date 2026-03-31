@@ -1,4 +1,4 @@
-# 🎮 史莱姆狂潮：最后的防线 | Slime Surge: Last Stand
+# 🎮 史莱姆狂潮：最后的防线 | Slime Frenzy: Last Stand
 
 > 一款充满挑战的 Python + Pygame 塔防游戏，策略性地放置防御塔，击退源源不断的怪物浪潮！
 
